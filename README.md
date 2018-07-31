@@ -5,8 +5,7 @@ A Node + Express API server with a MongoDB database built using [Parse Server](h
 
 ## Tech stack
 * Backend - Node + Express + Parse + MongoDB
-* Frontend - React + Redux + Material UI </br>
-[Frontend Repository](https://github.com/Shrreya/tfi-volunteer-frontend/)
+* [Frontend](https://github.com/Shrreya/tfi-volunteer-frontend/) - React + Redux + Material UI 
 
 ## Running locally
 ```
