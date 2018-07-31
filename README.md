@@ -1,7 +1,12 @@
 # Parse Server & Dashboard
 
-A Node + Express API server with a MongoDB database built using [Parse Server](https://github.com/parse-community/parse-server)
-with a dashboard to manage apps.
+A Node + Express API server with a MongoDB database built using [Parse Server](https://github.com/parse-community/parse-server) with a dashboard to manage apps. </br>
+(Web app to create &amp; discover volunteering opportunities.)
+
+## Tech stack
+* Backend - Node + Express + Parse + MongoDB
+* Frontend - React + Redux + Material UI </br>
+[Frontend Repository](https://github.com/Shrreya/tfi-volunteer-frontend/)
 
 ## Running locally
 ```
@@ -22,7 +27,7 @@ Can be provided through the terminal or a .env file in the root directory
 ├── package.json # npm package manager file.
 ├── package-lock.json # automatically generated tree for npm operations.
 └── cloud
-    ├── main.js # Cloud code (optional)
+    └── main.js # Cloud code (optional)
 ```
 
 ## Relevant Links
